@@ -1,0 +1,3 @@
+[run]
+source = pecanorpecan
+omit = pecanorpecan/test*
